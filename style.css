@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+*{
+    text-align: center;
+    
+}
+
+
+
+
+
+header {
+    background-color: aqua;
+    height: 50px;
+    
+}
+
+aside {
+    background-color: blueviolet;
+    width: 30%;
+    height: 800px;
+
+float: left;
+ 
+   
+}
+
+main {
+    background-color: orangered;
+    width: 70%;
+    height: 800px;
+    float: right;
+}
+
+footer {
+    background-color:green;
+    height:50px;
+clear: both;
+}

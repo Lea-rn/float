@@ -1,0 +1,17 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+border: solid 15px gray;
+overflow: auto;
+}
+
+
+img {
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+}
